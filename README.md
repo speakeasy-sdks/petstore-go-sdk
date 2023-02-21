@@ -1,4 +1,4 @@
-# github.com/speakeasy-sdks/petstore-go-sdk
+# Petstore Go SDK
 
 <!-- Start SDK Installation -->
 ## SDK Installation
