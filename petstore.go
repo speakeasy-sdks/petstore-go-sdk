@@ -52,8 +52,8 @@ func WithClient(client HTTPClient) SDKOption {
 func New(opts ...SDKOption) *Petstore {
 	sdk := &Petstore{
 		_language:   "go",
-		_sdkVersion: "1.1.0",
-		_genVersion: "1.3.3",
+		_sdkVersion: "1.3.2",
+		_genVersion: "1.5.4",
 	}
 	for _, opt := range opts {
 		opt(sdk)

@@ -2,7 +2,7 @@ package operations
 
 import (
 	"github.com/speakeasy-sdks/petstore-go-sdk/pkg/models/shared"
-	"github.com/speakeasy-sdks/petstore-go-sdk/pkg/models/utils"
+	"github.com/speakeasy-sdks/petstore-go-sdk/pkg/utils"
 )
 
 type FindPetByIDPathParams struct {
